@@ -1,1 +1,33 @@
+# Alignment of Wild-Type CFTR vs F508del Mutant
+
+# Gene: CFTR (Cystic Fibrosis Transmembrane Conductance Regulator)
+
+# Transcript: NM_000492.3
+
+# Protein: NP_000483.3
+
+# Documented Variant: 1521_1523delCTT (F508del)
+
+Wild-Type (WT) CDS region:
+
+... ATC ATC TTT GGT GTT TCC TAT GAT GAA TAT AGA TAC AGA AGC GTC ATC AAA GCA TGC CAA CTA GAA GAG GAC ATC TCC AAG TTT GCA GAG AAA GAC AAT ATA GTT CTT GGA GAA GGT GGA ATC ACA CTG AGT GGA GGT CAA CGA GCA AGA ATT TCT TTA GCA AGA GCA GTA TAC AAA GAT GCT GAT TTG TAT TT ...
+
+Mutant (F508del) CDS region:
+
+... ATC ATC TTT GGT GTT TCC TAT GAT GAA TAT AGA TAC AGA AGC GTC ATC AAA GCA TGC CAA CTA GAA GAG GAC ATC TCC AAG TTT GCA GAG AAA GAC AAT ATA GTT CTT GGA GAA GGT GGA ATC ACA CTG AGT GGA GGT CAA CGA GCA AGA ATT TCT TTA GCA AGA GCA GTA TAC AAA GAT GCT GAT TTG TAT TT ...
+                                ^^^
+                                Deleted codon (CTT) → Phenylalanine 508
+
+Protein Translation (WT):
+
+... I I F G V S Y D E Y R Y R S V I K H C Q L E E D I S K F A E K D N I V L G E G G I T L S G G Q R A R I S L A R A V Y K D A D L Y L L D S P F G Y L D V L T E K E I F E S C V C K L M A N K T R I L V T S K M E H L K K A D K I L I L H E G S S Y F Y G T F S E L Q N L Q P D F S S K L M G C D S F D Q F S A E R R N S I L T E T L H R F S L E G D A P V S W T E T K K Q S F K Q T G E F G E K R K N S I L N P I N S I R K F S I V Q K T P L Q M N G I E E D S D E P L E R R L S L V P D S E Q G E A I L P R I S V I S T G P T L Q A R R R Q S V L N L M T H S V N Q G Q N I H R K T T A S T R K V S L A P Q A N L T E L D I Y S R R L S Q E T G L E I S E E I N E E D L K E C F F D D M E S I P A V T T W N T Y L R Y I T V H K S L I F V L I W C L V I F L A E V A A S L V V L W L L G N T P L Q D K G N S T H S R N N S Y A V I I T S T S S Y Y V F Y I Y V G V A D T L L A M G F F R G L P L V H T L I T V S K I L H H K M L H S V L Q A P M S T L N T L K A G G I L N R F S K D I A I L D D L L P L T I F D F I Q L L L I V I G A I A V V A V L Q P Y I F V A T V P V I V A F I M L R A Y F L Q T S Q Q L K Q L E S E G R S P I F T H L V T S L K G L W T L R A F G R Q P Y F E T L F H K A L N L H T A N W F L Y L S T L R W F Q M R I E M I F V I F F I A V T F I S I L T T G E G E G R V G I I L T L A M N I M S T L Q W A V N S S I D V D S L M R S V S R V F K F I D M P T E G K P T K S T K P Y K N G Q L S K V M I I E N S H V K K D D I W P S G G Q M T V K D L T A K Y T E G G N A I L E N I S F S I S P G Q R V G L L G R T G S G K S T L L S A F L R L L N T E G E I Q I D G V S W D S I T L Q Q W R K A F G V I P Q K V F I F S G T F R K N L D P Y E Q W S D Q E I W K V A D E V G L R S V I E Q F P G K L D F V L V D G G C V L S H G H K Q L M C L A R S V L S K A K I L L L D E P S A H L D P V T Y Q I I R R T L K Q A F A D C T V I L C E H R I E A M L E C Q Q F L V I E E N K V R Q Y D S I Q K L L N E R S L F R Q A I S P S D R V K L F P H R N S S K C K S K P Q I A A L K E E T E E E V Q D T R L *
+
+Protein Translation (F508del):
+
+identical sequence except missing phenylalanine (F) at position 508 
+
+
+- Amino acids affected: Phenylalanine at position 508 deleted
+
+- Functional consequence: Misfolding of CFTR, ER retention, defective chloride transport → cystic fibrosis phenotype
 
