@@ -31,3 +31,5 @@ identical sequence except missing phenylalanine (F) at position 508
 
 - Functional consequence: Misfolding of CFTR, ER retention, defective chloride transport → cystic fibrosis phenotype
 
+
+
